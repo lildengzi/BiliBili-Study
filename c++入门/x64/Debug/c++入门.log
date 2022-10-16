@@ -1,0 +1,5 @@
+﻿  枚举1.cpp
+C:\Users\25808\source\repos\B站学习\c++入门\枚举1.cpp(4,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\25808\source\repos\B站学习\c++入门\枚举1.cpp(13,4): error C2676: 二进制“++”:“main::boy”不定义该运算符或到预定义运算符可接收的类型的转换
+  结构体1.cpp
+  正在生成代码...
